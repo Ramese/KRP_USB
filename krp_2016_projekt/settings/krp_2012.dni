@@ -1,0 +1,50 @@
+[Stack]
+FillEnabled=0
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnLogOnly=1
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[DebugChecksum]
+Checksum=-1991580262
+[Exceptions]
+StopOnUncaught=_ 0
+StopOnThrow=_ 0
+[CallStack]
+ShowArgs=0
+[Disassembly]
+MixedMode=1
+[DriverProfiling]
+Enabled=0
+Mode=0
+Graph=0
+Symbiont=0
+Exclusions=
+[StLinkDriver]
+stlinkserialNo=2798FD0D
+stlinkfoundProbes=
+CStepIntDis=_ 0
+[RecentFlashDownload]
+Path=C:\Users\Jerseyslavek\Dropbox\SW\KRP\STM324xG_EVAL_FW_V1.0.0\Binary\STM324xG_EVAL_FW_V1.0.0.dfu
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[CallStackLog]
+Enabled=0
+[CallStackStripe]
+ShowTiming=1
+[Disassemble mode]
+mode=0
+[Breakpoints2]
+Count=0
+[Aliases]
+A0=_ "C:\Users\Jerseyslavek\Dropbox\SW\KRP\lib\CMSIS\Device\ST\STM32F4xx\Source\Templates\system_stm32f4xx.c" "D:\Dropbox\Dropbox\SW\KRP\lib\CMSIS\Device\ST\STM32F4xx\Source\Templates\system_stm32f4xx.c"
+Count=1
+SuppressDialog=0
